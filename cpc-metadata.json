@@ -1,0 +1,8 @@
+{
+    "name": "Crest Point Capital",
+    "symbol": "CPC",
+    "description": "Crest Point Capital Token",
+    "image": "https://raw.githubusercontent.com/your-repo/token-assets/main/cpc-logo.png", // Replace with your actual logo URL
+    "external_url": "",
+    "attributes": []
+}
