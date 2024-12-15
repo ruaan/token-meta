@@ -3,15 +3,14 @@
     "symbol": "CPC",
     "description": "Crest Point Capital Token on Solana",
     "image": "https://raw.githubusercontent.com/ruaan/token-meta/main/cpc-logo.jpg",
-    "animation_url": "",
     "external_url": "",
+    "attributes": [],
     "properties": {
         "files": [
             {
                 "uri": "https://raw.githubusercontent.com/ruaan/token-meta/main/cpc-logo.jpg",
                 "type": "image/jpeg"
             }
-        ],
-        "category": "token"
+        ]
     }
 }
