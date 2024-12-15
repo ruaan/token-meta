@@ -1,8 +1,17 @@
 {
     "name": "Crest Point Capital",
     "symbol": "CPC",
-    "description": "Crest Point Capital Token",
-    "image": "https://raw.githubusercontent.com/your-repo/token-assets/main/cpc-logo.png", // Replace with your actual logo URL
+    "description": "Crest Point Capital Token on Solana",
+    "image": "https://raw.githubusercontent.com/ruaan/token-meta/main/cpc-logo.jpg",
+    "animation_url": "",
     "external_url": "",
-    "attributes": []
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/ruaan/token-meta/main/cpc-logo.jpg",
+                "type": "image/jpeg"
+            }
+        ],
+        "category": "token"
+    }
 }
